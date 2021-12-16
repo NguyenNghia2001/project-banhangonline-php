@@ -1,4 +1,3 @@
-	
 <?php 
 	include 'include/header.php';
 	include 'include/slider.php';
